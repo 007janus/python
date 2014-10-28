@@ -1,7 +1,7 @@
 #!/usr/bin/env Python
 from __future__ import print_function
 from collections import OrderedDict
-import os
+
 def CPUinfo():
     
     CPUinfo=OrderedDict()
