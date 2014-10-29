@@ -4,4 +4,3 @@ timeout="30"
 upperlimit="50" 
 upperlimit1="40" 
 timezone="1"
-test = True
